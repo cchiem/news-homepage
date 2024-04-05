@@ -16,6 +16,8 @@
 body{
     font-family: "Inter", sans-serif;
     color: var(--Very-dark-blue);
+    background-color: var(--Off-white);
+
 }   
 
 button:hover,
